@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Suite",
+  "description": "Unified clinical decision-support workstation integrating Pediatric Resuscitation & Ventilator Guide, Emergency K-Coefficients, Pediatric & Pregnancy Drug Guide, and Occupational Needlestick Protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
